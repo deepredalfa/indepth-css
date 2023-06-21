@@ -1,0 +1,26 @@
+p {
+    color: blue;
+}
+
+blockquote p {
+    padding-left: 2em;
+    color: brown;
+}
+
+
+#intro {
+    font-size: 2.5em;
+    font-style: italic;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.date-posted {
+    color: #d63333;
+}
+
+#latest {
+    font-size: 4.0em;
+}
+#latest .date-posted {
+    font-weight: bold;
+}

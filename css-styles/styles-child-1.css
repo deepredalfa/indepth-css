@@ -1,0 +1,5 @@
+#nav > p {
+    background: url(../folder.png) no-repeat left top;
+    padding-left: 20px;
+    font-size: larger;
+}
